@@ -1,7 +1,7 @@
 Hello, I'm Shahnawz Mohammed! 👋
 I love making websites and other fun projects, feel free to contact me and check out my portfolio!
 
-</> -Portfolio In - LinkedIn Email - mshanawaztech@gmail.com
+Email - mshanawaztech@gmail.com
 
 My Tech Stack 👨‍💻
 Languages
