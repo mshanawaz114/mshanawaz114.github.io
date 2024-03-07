@@ -1,30 +1,21 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Hello, I'm Shahnawz Mohammed! 👋
+I love making websites and other fun projects, feel free to contact me and check out my portfolio!
+
+</> -Portfolio In - LinkedIn Email - mshanawaztech@gmail.com
+
+My Tech Stack 👨‍💻
+Languages
+PHP Dotnet Python JavaScript Java  HTML5 CSS3 
+
+Frameworks
+Drupal Wordpress UNA-CMS Adobe Experience Manager Sitecore Django React Laravel Symfony CakePHP Zend NodeJS AngularJS Vue.JS Flask ExpressJS
+
+Other Skills | Familiar with...
+Fondation Storybook PatternLab Atomic Design Pattern Figma MiroBoard Microsoft Visio ERD MYSQL ORACLE SQL NOSQL Heroku Bootstrap Wordpress Wix Excel Trello Photoshop Dreamweaver Creative Cloud Adobe Premiere Jira Flutter
+
+Education 📚
+Westcliff University, halfway to finish a Doctrate Program(PHD) in Business Administrations  from Irvince California USA.
+Harrisburg University, currently a masters in Computer system Engineering and Management from Harrisburg Pennsylvenia USA.
+Jawaharlal University, accomplish a Bachelors in Civil engineering from Hyderabad India.
 
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
